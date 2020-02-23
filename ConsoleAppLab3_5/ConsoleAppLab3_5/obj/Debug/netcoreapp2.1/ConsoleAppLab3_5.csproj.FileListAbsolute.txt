@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\bin\Debug\netcoreapp2.1\ConsoleAppLab3_5.deps.json
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\bin\Debug\netcoreapp2.1\ConsoleAppLab3_5.runtimeconfig.json
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\bin\Debug\netcoreapp2.1\ConsoleAppLab3_5.runtimeconfig.dev.json
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\bin\Debug\netcoreapp2.1\ConsoleAppLab3_5.dll
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\bin\Debug\netcoreapp2.1\ConsoleAppLab3_5.pdb
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.AssemblyInfo.cs
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.dll
+C:\Users\student\source\repos\ConsoleAppLab3_5\ConsoleAppLab3_5\obj\Debug\netcoreapp2.1\ConsoleAppLab3_5.pdb
